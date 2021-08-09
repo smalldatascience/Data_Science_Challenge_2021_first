@@ -5,4 +5,4 @@ Maximilian Pfeiffer gives in his analysis a broad overview how the Austrian insu
 
 ---
 
-The Data Science Challenge is an initiative of the AVÖ Data Science Working Group in cooperation with the Actuarial Association of Slovakia and UNIQA 4WARD to encourage students and professionals to engage more intesnively with the topic of Data Science in the insurance industry. 
+The Data Science Challenge is an initiative of the AVÖ Data Science Working Group in cooperation with the Actuarial Association of Slovakia and UNIQA 4WARD to encourage students and professionals to engage more intesively with the topic of Data Science in the insurance industry. 
